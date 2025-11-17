@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on 
-- 📫 My email is 939742225@qq.com
+- 📫 My email is nuocheng2003@gmail.com
 
 <!---
 yanruo03/yanruo03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
